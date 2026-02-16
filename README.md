@@ -1,15 +1,18 @@
 <!-- ========================================= -->
 <!--        PREMIUM DARK GITHUB PROFILE        -->
 <!-- ========================================= -->
+<!-- Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
+
 
 <h1 align="center">Hey 👋 I'm Shrinivas</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+Automation+Enthusiast;Building+Real-World+Systems;Always+Learning+%26+Improving" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shrinivas1908&label=Profile%20Views&color=00F7FF&style=flat" />
