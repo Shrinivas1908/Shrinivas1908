@@ -41,22 +41,52 @@ Mission: Build scalable & impactful tech solutions
 # 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Shrinivas1908/qr-attendance-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrinivas1908&repo=qr-attendance-system&theme=tokyonight&hide_border=true" />
-  </a>
 
-  <a href="https://github.com/Shrinivas1908/AI-Tender-Guardian">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrinivas1908&repo=AI-Tender-Guardian&theme=tokyonight&hide_border=true" />
-  </a>
+<!-- QR Attendance System Card -->
+<a href="https://github.com/Shrinivas1908/qr-attendance-system" target="_blank">
+  <img width="250px" src="https://img.shields.io/badge/QR%20Attendance%20System-Flask_black?style=for-the-badge&logo=python" alt="QR Attendance System"/>
+</a>
 
-  <a href="https://github.com/Shrinivas1908/Handy-Hub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrinivas1908&repo=Handy-Hub&theme=tokyonight&hide_border=true" />
-  </a>
+<!-- AI Tender Guardian Card -->
+<a href="https://github.com/Shrinivas1908/AI-Tender-Guardian" target="_blank">
+  <img width="250px" src="https://img.shields.io/badge/AI%20Tender%20Guardian-AI-blue?style=for-the-badge&logo=ai" alt="AI Tender Guardian"/>
+</a>
 
-  <a href="https://github.com/Shrinivas1908/Alumini-Management-Portal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrinivas1908&repo=Alumini-Management-Portal&theme=tokyonight&hide_border=true" />
-  </a>
+<br>
+
+<!-- Handy Hub Card -->
+<a href="https://github.com/Shrinivas1908/Handy-Hub" target="_blank">
+  <img width="250px" src="https://img.shields.io/badge/Handy%20Hub-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="Handy Hub"/>
+</a>
+
+<!-- Alumni Management Portal Card -->
+<a href="https://github.com/Shrinivas1908/Alumini-Management-Portal" target="_blank">
+  <img width="250px" src="https://img.shields.io/badge/Alumni%20Portal-HTML5-orange?style=for-the-badge&logo=html5" alt="Alumni Portal"/>
+</a>
+
 </p>
+
+### 📍 QR Attendance System
+**Flask + HTML5 web application** to let users mark attendance by scanning a QR code directly in the browser.  
+🥇 Real-world use case | 📍 Scan HTML UI | 🐍 Python backend
+
+---
+
+### 🤖 AI Tender Guardian
+**AI automation concept project** (work in progress) — eventually aimed at smart tender processing.  
+💡 Use AI to scan, analyse & filter tenders.
+
+---
+
+### 🛠️ Handy Hub
+A **dynamic web application** using JavaScript and EJS templates.  
+✔ Interactive UI | ✔ Modular components | ✔ CSS design
+
+---
+
+### 🎓 Alumni Management Portal
+An **HTML based alumni portal** with structured pages for forms and data representation.  
+🎓 Perfect beginner-friendly web project
 
 ---
 
