@@ -40,39 +40,23 @@ Mission: Build scalable & impactful tech solutions
 
 # 🚀 Featured Projects
 
-## 📍 QR Attendance System  
-🔗 https://github.com/Shrinivas1908/qr-attendance-system  
-QR Code-based attendance system using **Flask + HTML5 QR Scanner**  
-✔ Practical real-world application  
-✔ Backend & frontend integration  
-✔ Fast QR-based marking system  
+<p align="center">
+  <a href="https://github.com/Shrinivas1908/qr-attendance-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrinivas1908&repo=qr-attendance-system&theme=tokyonight&hide_border=true" />
+  </a>
 
----
+  <a href="https://github.com/Shrinivas1908/AI-Tender-Guardian">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrinivas1908&repo=AI-Tender-Guardian&theme=tokyonight&hide_border=true" />
+  </a>
 
-## 🤖 AI Tender Guardian  
-🔗 https://github.com/Shrinivas1908/AI-Tender-Guardian  
-AI-powered tender monitoring & automation concept  
-✔ Smart workflow automation  
-✔ AI-driven document analysis potential  
-✔ High impact system  
+  <a href="https://github.com/Shrinivas1908/Handy-Hub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrinivas1908&repo=Handy-Hub&theme=tokyonight&hide_border=true" />
+  </a>
 
----
-
-## 🛠️ Handy Hub  
-🔗 https://github.com/Shrinivas1908/Handy-Hub  
-Dynamic web application using **JavaScript, EJS & CSS**  
-✔ Interactive UI  
-✔ Server-rendered templates  
-✔ Clean frontend structure  
-
----
-
-## 🎓 Alumni Management Portal  
-🔗 https://github.com/Shrinivas1908/Alumini-Management-Portal  
-HTML-based alumni management system  
-✔ Organized layout  
-✔ Form-based data handling  
-✔ Structured UI design  
+  <a href="https://github.com/Shrinivas1908/Alumini-Management-Portal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrinivas1908&repo=Alumini-Management-Portal&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
