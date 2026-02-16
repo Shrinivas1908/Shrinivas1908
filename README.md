@@ -1,6 +1,9 @@
 <!-- ========================================= -->
 <!--        PREMIUM DARK GITHUB PROFILE        -->
 <!-- ========================================= -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
+</p>
 
 <h1 align="center">Hey 👋 I'm Shrinivas</h1>
 
