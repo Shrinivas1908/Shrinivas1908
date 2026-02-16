@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I’m Shrinivas
 
-<!--
-**Shrinivas1908/Shrinivas1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full Stack Developer | Open Source Enthusiast
 
-Here are some ideas to get you started:
+🔭 I’m currently working on building cool web apps and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🎓 Studying Computer Science
+- 💡 Passionate about: Web, Cloud & Open Source
+- 📫 Connect with me on LinkedIn | Twitter
+
+---
+
+### 🛠️ Tech Stack
+**Front End:** HTML, CSS, JavaScript  
+**Frameworks:** React, Next.js  
+**Backend:** Node.js, Express  
+**Database:** MongoDB  
+**Tools:** Git,Linux,VS Code,Docker  
+
+---
+
+### 🔥 GitHub Stats
+<!-- Add GitHub stats here -->
+
+---
+
+### 📫 Get in Touch
+[LinkedIn](www.linkedin.com/in/shrinivas-dhirbassi-5b8417203) • [Mail](shrinivasdhirbassi37@gmail.com)
