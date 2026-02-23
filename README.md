@@ -118,9 +118,8 @@ An **HTML based alumni portal** with structured pages for forms and data represe
 ---
 
 # 🐍 Contribution Snake Animation
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shrinivas1908/Shrinivas1908/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Shrinivas1908/Shrinivas1908/main/dist/github-contribution-grid-snake-dark.svg" />
 </p>
 
 # 🌙 Developer Philosophy
